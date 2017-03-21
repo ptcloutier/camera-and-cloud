@@ -34,7 +34,7 @@
 
 
 - (NSString *)userLogin {
-    // user is me
+    // TODO: currently one user only, add more users  
     return kUSER_NAME;
 }
 
